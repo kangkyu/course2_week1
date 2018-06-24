@@ -1,17 +1,17 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.1.14.2'
-gem 'sass-rails', '~> 4.0.3'
+gem 'rails', '4.2.5.2'
+gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
-gem 'coffee-rails', '~> 4.0.0'
-gem 'bootstrap-sass', '~> 2.3.2.0'
+gem 'coffee-rails', '~> 4.1.0'
+gem 'bootstrap-sass', '~> 2.3.2.2'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder', '~> 1.2'
+gem 'jbuilder', '~> 2.0'
 
 group :doc do
   gem 'sdoc', require: false
